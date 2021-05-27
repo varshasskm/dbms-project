@@ -9,7 +9,7 @@ const { REFUSED } = require('dns');
 app.use(bodyParser.urlencoded({ extended: false }));
 const port = process.env.PORT || 8090;
 var host1 = 'localhost';
-var user1 = 'root';
+var user1 = 'varsha';
 var pwd1 = 'password';
 var port1 = 3306;
 
